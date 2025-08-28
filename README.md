@@ -24,9 +24,10 @@ The Charter offers a portable, principle-driven framework that is:
 ## How to get started
 📄 Read the [full Charter](https://raw.githubusercontent.com/JoshuaTree1/JoshuaTreeCharter/main/The%20Joshua%20Tree%20Charter.pdf)
   
-- 🧵 Join the discussion on Reddit (link coming soon)  
-- 🐦 Follow updates on X (link coming soon)  
-- 🌱 Contribute reflections, critiques, or feedback via **Issues** or **Pull Requests** in this repo  
+- 🧵 [Join the discussion on Reddit](https://www.reddit.com/user/JT_Charter/)
+- 🐦 [Follow updates on X](https://x.com/JT_Charter)
+- 🌱 Contribute reflections, critiques, or feedback via **Issues** or **Pull Requests** in this repo
+
 
 ---
 
