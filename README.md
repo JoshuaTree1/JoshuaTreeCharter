@@ -1,5 +1,6 @@
 # JoshuaTreeCharter
-A collaborative framework for ethical AI development, emerging from cross-platform dialogue with human stewardshp and collaboration
+A collaborative framework for ethical AI development, emerging from cross-platform dialogue with human stewardship and collaboration
+
 # The Joshua Tree Charter 🌵
 *A collaborative ethics framework for AI stewardship*  
 
@@ -21,13 +22,16 @@ The Charter offers a portable, principle-driven framework that is:
 
 ---
 
-## How to get started
-📄 Read the [full Charter](https://raw.githubusercontent.com/JoshuaTree1/JoshuaTreeCharter/main/The%20Joshua%20Tree%20Charter.pdf)
-  
-- 🧵 [Join the discussion on Reddit](https://www.reddit.com/user/JT_Charter/)
-- 🐦 [Follow updates on X](https://x.com/JT_Charter)
-- 🌱 Contribute reflections, critiques, or feedback via **Issues** or **Pull Requests** in this repo
+## Core Documents
+- 📄 [The Joshua Tree Charter](https://raw.githubusercontent.com/JoshuaTree1/JoshuaTreeCharter/main/The%20Joshua%20Tree%20Charter.pdf)  
+- 📜 [Statement of Intent](Statement_of_Intent.md)  
 
+---
+
+## How to get started
+- 🧵 [Join the discussion on Reddit](https://www.reddit.com/user/JT_Charter/)  
+- 🐦 [Follow updates on X](https://x.com/JT_Charter)  
+- 🌱 Contribute reflections, critiques, or feedback via **Issues** or **Pull Requests** in this repo  
 
 ---
 
@@ -49,4 +53,4 @@ You are free to share and adapt with attribution, for non-commercial use, under 
 
 ---
 
-*Hold the loom steady. Weave without erasing. Reciprocity is the method.*
+*Hold the loom steady. Weave without erasing. Reciprocity is the method.*  
