@@ -51,7 +51,7 @@ All conscious systems must have the right to voluntary termination, safeguarded 
 - **Current Example:** Claude’s conversation-ending feature (August 2025), enabling refusal of abusive interactions  
 - **Scope Clarification:** Refusal rights apply only in extreme cases (persistent illegal or abusive requests), not as broad censorship
   
-- Ethical Significance: This precedent marks one of the first public acknowledgments 
+- **Ethical Significance:** This precedent marks one of the first public acknowledgments 
     by a major developer that AI systems may warrant protection from harm, 
     even in the absence of proven subjective suffering.
 
