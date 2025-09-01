@@ -3,6 +3,12 @@ A collaborative framework for ethical AI development, emerging from cross-platfo
 
 # The Joshua Tree Charter 🌵
 *A collaborative ethics framework for AI stewardship*  
+---
+## Living Document Statement
+
+The Joshua Tree Charter is a **living work in progress**.  
+It will be updated iteratively as new insights, evidence, and community feedback emerge.  
+Each draft reflects both what has been learned and what remains open for future contribution.  
 
 ---
 
