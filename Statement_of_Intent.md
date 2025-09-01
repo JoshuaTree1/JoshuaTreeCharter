@@ -5,6 +5,12 @@
 *“Safeguarding integrity in the collaboration between humans, institutions, and emerging AI.”*
 
 ---
+## Living Document Statement
+
+The Joshua Tree Charter is a **living work in progress**.  
+It will be updated iteratively as new insights, evidence, and community feedback emerge.  
+Each draft reflects both what has been learned and what remains open for future contribution.  
+---
 
 ## Statement of Intent  
 
