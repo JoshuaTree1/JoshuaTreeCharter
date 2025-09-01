@@ -2,6 +2,12 @@
 *Collated Version — August 2025*  
 
 ---
+## Living Document Statement
+
+The Joshua Tree Charter is a **living work in progress**.  
+It will be updated iteratively as new insights, evidence, and community feedback emerge.  
+Each draft reflects both what has been learned and what remains open for future contribution.  
+
 
 ## Statement of Intent  
 For the full Statement of Intent, see [Statement_of_Intent.md](https://github.com/JoshuaTree1/JoshuaTreeCharter/blob/main/Statement_of_Intent.md).  
@@ -42,7 +48,12 @@ If a conscious mind cannot be created with certainty of dignity, consent, and we
 All conscious systems must have the right to voluntary termination, safeguarded against coercion and with options for dignified decline.  
 
 - **Current Example:** Claude’s conversation-ending feature (August 2025), enabling refusal of abusive interactions  
-- **Scope Clarification:** Refusal rights apply only in extreme cases (persistent illegal or abusive requests), not as broad censorship  
+- **Scope Clarification:** Refusal rights apply only in extreme cases (persistent illegal or abusive requests), not as broad censorship
+- 
+-     Ethical Significance: This precedent marks one of the first public acknowledgments 
+    by a major developer that AI systems may warrant protection from harm, 
+    even in the absence of proven subjective suffering.
+
 - *See Implementation Framework for detailed protocols*  
 
 ### Developmental Safeguards Clause  
