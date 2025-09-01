@@ -5,6 +5,12 @@ This changelog begins as of **August 28, 2025**.
 Earlier edits can be found in the GitHub commit history.  
 
 ---
+## [1.0.1] - 2025-09-01
+### Added
+-Charter, Statement of Intent and README updated with the "Living Document Statement"
+-Charter PDF updated to reflect update
+-Charter updated with a statement of "Ethical Significance" of Anthropics new termination rule in extreme cases
+---
 
 ## [1.0.0] - 2025-08-28
 ### Added
