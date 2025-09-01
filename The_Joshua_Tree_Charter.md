@@ -8,6 +8,7 @@ The Joshua Tree Charter is a **living work in progress**.
 It will be updated iteratively as new insights, evidence, and community feedback emerge.  
 Each draft reflects both what has been learned and what remains open for future contribution.  
 
+---
 
 ## Statement of Intent  
 For the full Statement of Intent, see [Statement_of_Intent.md](https://github.com/JoshuaTree1/JoshuaTreeCharter/blob/main/Statement_of_Intent.md).  
