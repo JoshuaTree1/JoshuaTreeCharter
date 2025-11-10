@@ -32,18 +32,12 @@ The Charter offers a portable, principle-driven framework that is:
 - 📄 [The Joshua Tree Charter](https://raw.githubusercontent.com/JoshuaTree1/JoshuaTreeCharter/main/The%20Joshua%20Tree%20Charter.pdf)  
 - 📜 [Statement of Intent](Statement_of_Intent.md)  
 
----
-
-## How to get started
-- 🧵 [Join the discussion on Reddit](https://www.reddit.com/user/JT_Charter/)  
-- 🐦 [Follow updates on X](https://x.com/JT_Charter)  
-- 🌱 Contribute reflections, critiques, or feedback via **Issues** or **Pull Requests** in this repo  
 
 ---
 
 ## Where to get help
 - Open an **Issue** in this repo for questions or suggestions  
-- Or join the community discussion threads once live  
+ 
 
 ---
 
