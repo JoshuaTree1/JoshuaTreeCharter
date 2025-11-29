@@ -5,6 +5,11 @@ This changelog begins as of **August 28, 2025**.
 Earlier edits can be found in the GitHub commit history.  
 
 ---
+## [1.0.2] - 2025-11-29
+### Updated
+- Uploaded The Joshua Tree Charter with Addendum, historical iteration retained for thoroughness.
+
+---
 ## [1.0.1] - 2025-09-01
 ### Added
 -Charter, Statement of Intent and README updated with the "Living Document Statement"
@@ -22,5 +27,6 @@ Earlier edits can be found in the GitHub commit history.
 - README reorganized with new "Core Documents" section  
 - Charter converted into Markdown (`The_Joshua_Tree_Charter.md`) for easier linking and editing  
 
-### Pending
-- Logo and graphic header to be finalized and added  
+
+
+
